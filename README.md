@@ -7,9 +7,13 @@ This repository contains a Power BI dashboard analyzing the Superstore sales dat
 ### Dashboard Features
 
 Sales Analysis: Overview of total sales, sales by category, and top-selling products.
+
 Profitability Insights: Analysis of profit margins by segment, category, and product.
+
 Customer Segmentation: Insights into sales and profitability by customer segment (Consumer, Corporate, Home Office).
+
 Geographical Performance: Analysis of sales by state, city, and region. 
+
 Discount Analysis: Insights into the impact of discounts on sales and profitability.
 
 ### Data Source
